@@ -1,3 +1,5 @@
 Fejlesztés
+
 Itt teszünk egy kis csinosítást a kódban
 Befejezzük a fejlesztést, de nem biztos, hogy jó...
+
