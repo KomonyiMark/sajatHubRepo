@@ -1,4 +1,5 @@
 # sajatHubRepo
 
 Specifikáció létrehozása
-Bőbítettem a specifikációt
+
+Bővítettem a specifikációt
